@@ -4,10 +4,10 @@
 This project implements a **Network Intrusion Detection System (NIDS)** using the **NSL-KDD dataset**.  
 It combines:
 
-- ✔ Classification models (Random Forest, Logistic Regression)  
-- ✔ Anomaly Detection (Isolation Forest)  
-- ✔ Hybrid Models (RF + IF, LR + IF)  
-- ✔ Distributed training using Apache Spark  
+- Classification models (Random Forest, Logistic Regression)  
+- Anomaly Detection (Isolation Forest)  
+- Hybrid Models (RF + IF, LR + IF)  
+- Distributed training using Apache Spark  
 
 The system is built with an interactive **Streamlit UI** that guides the user through the full ML pipeline.
 
@@ -24,11 +24,11 @@ The system is built with an interactive **Streamlit UI** that guides the user th
 
 ## ML Tasks Covered
 
-✔ Feature Engineering  
-✔ Feature Selection  
-✔ Classification  
-✔ Anomaly Detection  
-✔ Model Evaluation  
+- Feature Engineering  
+- Feature Selection  
+- Classification  
+- Anomaly Detection  
+- Model Evaluation  
 
 ---
 
